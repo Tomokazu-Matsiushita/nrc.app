@@ -1,5 +1,5 @@
 streamlit
 gtts
+BytesIO
 base64
 time
-BytesIO
